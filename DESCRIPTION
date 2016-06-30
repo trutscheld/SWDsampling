@@ -8,7 +8,7 @@ Author: Diana Trutschel
 Maintainer: Diana Trutschel <diana.trutschel@dzne.de>
 Imports: lme4
 Description: More about what it does (maybe more than one line)
-License: GPL 2 (GNU General Public License Version 2)
+License: GPL-3
 RoxygenNote: 5.0.1
 Suggests: knitr,
     rmarkdown
