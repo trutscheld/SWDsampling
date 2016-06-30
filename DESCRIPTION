@@ -1,0 +1,15 @@
+Package: SWDsampling
+Type: Package
+Title: Sampling data within stepped wedge designs, power calculation and
+    simulations
+Version: 1.0
+Date: 2016-06-27
+Author: Diana Trutschel
+Maintainer: Diana Trutschel <diana.trutschel@dzne.de>
+Imports: lme4
+Description: More about what it does (maybe more than one line)
+License: GPL 2 (GNU General Public License Version 2)
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

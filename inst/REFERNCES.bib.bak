@@ -1,0 +1,1145 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{,
+  Title                    = {Sample size calculation for a stepped wedge trial},
+  Author                   = {Baio, G. and Copas, A. and Ambler, G. and Hargreaves, J. and Beard, E. and Omar, R. Z.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Baio, Gianluca
+Copas, Andrew
+Ambler, Gareth
+Hargreaves, James
+Beard, Emma
+Omar, Rumana Z
+eng
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:354. doi: 10.1186/s13063-015-0840-9.},
+  Pages                    = {354},
+  Volume                   = {16},
+
+  Abstract                 = {BACKGROUND: Stepped wedge trials (SWTs) can be considered as a variant of a clustered randomised trial, although in many ways they embed additional complications from the point of view of statistical design and analysis. While the literature is rich for standard parallel or clustered randomised clinical trials (CRTs), it is much less so for SWTs. The specific features of SWTs need to be addressed properly in the sample size calculations to ensure valid estimates of the intervention effect. METHODS: We critically review the available literature on analytical methods to perform sample size and power calculations in a SWT. In particular, we highlight the specific assumptions underlying currently used methods and comment on their validity and potential for extensions. Finally, we propose the use of simulation-based methods to overcome some of the limitations of analytical formulae. We performed a simulation exercise in which we compared simulation-based sample size computations with analytical methods and assessed the impact of varying the basic parameters to the resulting sample size/power, in the case of continuous and binary outcomes and assuming both cross-sectional data and the closed cohort design. RESULTS: We compared the sample size requirements for a SWT in comparison to CRTs based on comparable number of measurements in each cluster. In line with the existing literature, we found that when the level of correlation within the clusters is relatively high (for example, greater than 0.1), the SWT requires a smaller number of clusters. For low values of the intracluster correlation, the two designs produce more similar requirements in terms of total number of clusters. We validated our simulation-based approach and compared the results of sample size calculations to analytical methods; the simulation-based procedures perform well, producing results that are extremely similar to the analytical methods. We found that usually the SWT is relatively insensitive to variations in the intracluster correlation, and that failure to account for a potential time effect will artificially and grossly overestimate the power of a study. CONCLUSIONS: We provide a framework for handling the sample size and power calculations of a SWT and suggest that simulation-based procedures may be more effective, especially in dealing with the specific features of the study at hand. In selected situations and depending on the level of intracluster correlation and the cluster size, SWTs may be more efficient than comparable CRTs. However, the decision about the design to be implemented will be based on a wide range of considerations, including the cost associated with the number of clusters, number of measurements and the trial duration.},
+  Doi                      = {10.1186/s13063-015-0840-9},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26282553}
+}
+
+@Article{,
+  Title                    = {Stepped wedge randomised controlled trials: systematic review of studies published between 2010 and 2014},
+  Author                   = {Beard, E. and Lewis, J. J. and Copas, A. and Davey, C. and Osrin, D. and Baio, G. and Thompson, J. A. and Fielding, K. L. and Omar, R. Z. and Ononge, S. and Hargreaves, J. and Prost, A.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Beard, Emma
+Lewis, James J
+Copas, Andrew
+Davey, Calum
+Osrin, David
+Baio, Gianluca
+Thompson, Jennifer A
+Fielding, Katherine L
+Omar, Rumana Z
+Ononge, Sam
+Hargreaves, James
+Prost, Audrey
+eng
+091561/Wellcome Trust/United Kingdom
+091561/Z/10/Z/Wellcome Trust/United Kingdom
+Cancer Research UK/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:353. doi: 10.1186/s13063-015-0839-2.},
+  Pages                    = {353},
+  Volume                   = {16},
+
+  Abstract                 = {BACKGROUND: In a stepped wedge, cluster randomised trial, clusters receive the intervention at different time points, and the order in which they received it is randomised. Previous systematic reviews of stepped wedge trials have documented a steady rise in their use between 1987 and 2010, which was attributed to the design's perceived logistical and analytical advantages. However, the interventions included in these systematic reviews were often poorly reported and did not adequately describe the analysis and/or methodology used. Since 2010, a number of additional stepped wedge trials have been published. This article aims to update previous systematic reviews, and consider what interventions were tested and the rationale given for using a stepped wedge design. METHODS: We searched PubMed, PsychINFO, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Web of Science, the Cochrane Library and the Current Controlled Trials Register for articles published between January 2010 and May 2014. We considered stepped wedge randomised controlled trials in all fields of research. We independently extracted data from retrieved articles and reviewed them. Interventions were then coded using the functions specified by the Behaviour Change Wheel, and for behaviour change techniques using a validated taxonomy. RESULTS: Our review identified 37 stepped wedge trials, reported in 10 articles presenting trial results, one conference abstract, 21 protocol or study design articles and five trial registrations. These were mostly conducted in developed countries (n = 30), and within healthcare organisations (n = 28). A total of 33 of the interventions were educationally based, with the most commonly used behaviour change techniques being 'instruction on how to perform a behaviour' (n = 32) and 'persuasive source' (n = 25). Authors gave a wide range of reasons for the use of the stepped wedge trial design, including ethical considerations, logistical, financial and methodological. The adequacy of reporting varied across studies: many did not provide sufficient detail regarding the methodology or calculation of the required sample size. CONCLUSIONS: The popularity of stepped wedge trials has increased since 2010, predominantly in high-income countries. However, there is a need for further guidance on their reporting and analysis.},
+  Doi                      = {10.1186/s13063-015-0839-2},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26278881}
+}
+
+@Article{,
+  Title                    = {The stepped wedge trial design: a systematic review},
+  Author                   = {Brown, C. A. and Lilford, R. J.},
+  Journal                  = {BMC Med Res Methodol},
+  Year                     = {2006},
+  Note                     = {Brown, Celia A
+Lilford, Richard J
+eng
+England
+BMC Med Res Methodol. 2006 Nov 8;6:54.},
+  Pages                    = {54},
+  Volume                   = {6},
+
+  Abstract                 = {BACKGROUND: Stepped wedge randomised trial designs involve sequential roll-out of an intervention to participants (individuals or clusters) over a number of time periods. By the end of the study, all participants will have received the intervention, although the order in which participants receive the intervention is determined at random. The design is particularly relevant where it is predicted that the intervention will do more good than harm (making a parallel design, in which certain participants do not receive the intervention unethical) and/or where, for logistical, practical or financial reasons, it is impossible to deliver the intervention simultaneously to all participants. Stepped wedge designs offer a number of opportunities for data analysis, particularly for modelling the effect of time on the effectiveness of an intervention. This paper presents a review of 12 studies (or protocols) that use (or plan to use) a stepped wedge design. One aim of the review is to highlight the potential for the stepped wedge design, given its infrequent use to date. METHODS: Comprehensive literature review of studies or protocols using a stepped wedge design. Data were extracted from the studies in three categories for subsequent consideration: study information (epidemiology, intervention, number of participants), reasons for using a stepped wedge design and methods of data analysis. RESULTS: The 12 studies included in this review describe evaluations of a wide range of interventions, across different diseases in different settings. However the stepped wedge design appears to have found a niche for evaluating interventions in developing countries, specifically those concerned with HIV. There were few consistent motivations for employing a stepped wedge design or methods of data analysis across studies. The methodological descriptions of stepped wedge studies, including methods of randomisation, sample size calculations and methods of analysis, are not always complete. CONCLUSION: While the stepped wedge design offers a number of opportunities for use in future evaluations, a more consistent approach to reporting and data analysis is required.},
+  Doi                      = {10.1186/1471-2288-6-54},
+  ISSN                     = {1471-2288 (Electronic)
+1471-2288 (Linking)},
+  Keywords                 = {Clinical Protocols
+Data Interpretation, Statistical
+Developing Countries
+Humans
+Intervention Studies
+Randomized Controlled Trials as Topic/*methods
+Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/17092344}
+}
+
+@Article{,
+  Title                    = {Das kollektive Lernen in Fallbesprechungen. Theoretische Ansätze zur Reduktion herausfordernden Verhaltens bei Menschen mit Demenz im Rahmen des Projektes FallDem.},
+  Author                   = {Buscher, Ines and Reuther, Sven and Holle, Daniela and Bartholomeyczik, Sabine and Vollmar, Horst Christian and Halek, Margareta},
+  Journal                  = {Pflegewissenschaft},
+  Year                     = {2012},
+  Number                   = {12},
+  Pages                    = {168-178},
+  Volume                   = {03},
+
+  Doi                      = {10.3936/1144},
+  Keywords                 = {peer reviewed Artikel, Affiliation DZNE (ja), FallDem},
+  Type                     = {Journal Article}
+}
+
+@Article{,
+  Title                    = {Designing a stepped wedge trial: three main designs, carry-over effects and randomisation approaches},
+  Author                   = {Copas, A. J. and Lewis, J. J. and Thompson, J. A. and Davey, C. and Baio, G. and Hargreaves, J. R.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Copas, Andrew J
+Lewis, James J
+Thompson, Jennifer A
+Davey, Calum
+Baio, Gianluca
+Hargreaves, James R
+eng
+MR/L004933/1-P27/Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:352. doi: 10.1186/s13063-015-0842-7.},
+  Pages                    = {352},
+  Volume                   = {16},
+
+  Abstract                 = {BACKGROUND: There is limited guidance on the design of stepped wedge cluster randomised trials. Current methodological literature focuses mainly on trials with cross-sectional data collection at discrete times, yet many recent stepped wedge trials do not follow this design. In this article, we present a typology to characterise the full range of stepped wedge designs, and offer guidance on several other design aspects. METHODS: We developed a framework to define and report the key characteristics of a stepped wedge trial, including cluster allocation and individual participation. We also considered the relative strengths and weaknesses of trials according to this framework. We classified recently published stepped wedge trials using this framework and identified illustrative case studies. We identified key design choices and developed guidance for each. RESULTS: We identified three main stepped wedge designs: those with a closed cohort, an open cohort, and a continuous recruitment short exposure design. In the first two designs, many individuals experience both control and intervention conditions. In the final design, individuals are recruited in continuous time as they become eligible and experience either the control or intervention condition, but not both, and then provide an outcome measurement at follow-up. While most stepped wedge trials use simple randomisation, stratification and restricted randomisation are often feasible and may be useful. Some recent studies collect outcome information from individuals exposed a long time before or after the rollout period, but this contributes little to the primary analysis. Incomplete designs should be considered when the intervention cannot be implemented quickly. Carry-over effects can arise in stepped wedge trials with closed and open cohorts. CONCLUSIONS: Stepped wedge trial designs should be reported more clearly. Researchers should consider the use of stratified and/or restricted randomisation. Trials should generally not commit resources to collect outcome data from individuals exposed a long time before or after the rollout period. Though substantial carry-over effects are uncommon in stepped wedge trials, researchers should consider their possibility before conducting a trial with closed or open cohorts.},
+  Doi                      = {10.1186/s13063-015-0842-7},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26279154}
+}
+
+@Article{,
+  Title                    = {Developing and evaluating complex interventions: the new Medical Research Council guidance},
+  Author                   = {Craig, P. and Dieppe, P. and Macintyre, S. and Michie, S. and Nazareth, I. and Petticrew, M. and Medical Research Council, Guidance},
+  Journal                  = {BMJ},
+  Year                     = {2008},
+  Note                     = {Craig, Peter
+Dieppe, Paul
+Macintyre, Sally
+Michie, Susan
+Nazareth, Irwin
+Petticrew, Mark
+eng
+MC_U130059812/Medical Research Council/United Kingdom
+MC_U130059821/Medical Research Council/United Kingdom
+MC_U145085839/Medical Research Council/United Kingdom
+Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+Clinical research ed.
+2008/10/01 09:00
+BMJ. 2008 Sep 29;337:a1655. doi: 10.1136/bmj.a1655.},
+  Pages                    = {a1655},
+  Volume                   = {337},
+
+  Doi                      = {10.1136/bmj.a1655},
+  ISSN                     = {1756-1833 (Electronic)
+0959-535X (Linking)},
+  Keywords                 = {*Diffusion of Innovation
+Evaluation Studies as Topic
+Evidence-Based Medicine
+*Practice Guidelines as Topic
+Therapeutics},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/18824488}
+}
+
+@Article{,
+  Title                    = {Analysis and reporting of stepped wedge randomised controlled trials: synthesis and critical appraisal of published studies, 2010 to 2014},
+  Author                   = {Davey, C. and Hargreaves, J. and Thompson, J. A. and Copas, A. J. and Beard, E. and Lewis, J. J. and Fielding, K. L.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Davey, Calum
+Hargreaves, James
+Thompson, Jennifer A
+Copas, Andrew J
+Beard, Emma
+Lewis, James J
+Fielding, Katherine L
+eng
+MR/K012126/1/Medical Research Council/United Kingdom
+MR/L004933/1-P27/Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:358. doi: 10.1186/s13063-015-0838-3.},
+  Pages                    = {358},
+  Volume                   = {16},
+
+  Abstract                 = {BACKGROUND: Stepped wedge cluster randomised trials introduce interventions to groups of clusters in a random order and have been used to evaluate interventions for health and wellbeing. Standardised guidance for reporting stepped wedge trials is currently absent, and a range of potential analytic approaches have been described. METHODS: We systematically identified and reviewed recently published (2010 to 2014) analyses of stepped wedge trials. We extracted data and described the range of reporting and analysis approaches taken across all studies. We critically appraised the strategy described by three trials chosen to reflect a range of design characteristics. RESULTS: Ten reports of completed analyses were identified. Reporting varied: seven of the studies included a CONSORT diagram, and only five also included a diagram of the intervention rollout. Seven assessed the balance achieved by randomisation, and there was considerable heterogeneity among the approaches used. Only six reported the trend in the outcome over time. All used both 'horizontal' and 'vertical' information to estimate the intervention effect: eight adjusted for time with a fixed effect, one used time as a condition using a Cox proportional hazards model, and one did not account for time trends. The majority used simple random effects to account for clustering and repeat measures, assuming a common intervention effect across clusters. Outcome data from before and after the rollout period were often included in the primary analysis. Potential lags in the outcome response to the intervention were rarely investigated. We use three case studies to illustrate different approaches to analysis and reporting. CONCLUSIONS: There is considerable heterogeneity in the reporting of stepped wedge cluster randomised trials. Correct specification of the time-trend underlies the validity of the analytical approaches. The possibility that intervention effects vary by cluster or over time should be considered. Further work should be done to standardise the reporting of the design, attrition, balance, and time-trends in stepped wedge trials.},
+  Doi                      = {10.1186/s13063-015-0838-3},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26278667}
+}
+
+@Article{,
+  Title                    = {Practice misalignments in randomized controlled trials: Identification, impact, and potential solutions},
+  Author                   = {Deans, K. J. and Minneci, P. C. and Danner, R. L. and Eichacker, P. Q. and Natanson, C.},
+  Journal                  = {Anesth Analg},
+  Year                     = {2010},
+  Note                     = {Deans, Katherine J
+Minneci, Peter C
+Danner, Robert L
+Eichacker, Peter Q
+Natanson, Charles
+eng
+K22 HL089041/HL/NHLBI NIH HHS/
+K22 HL089041-02/HL/NHLBI NIH HHS/
+K22HL089041-01/HL/NHLBI NIH HHS/
+Intramural NIH HHS/
+Anesth Analg. 2010 Aug;111(2):444-50. doi: 10.1213/ane.0b013e3181aa8903.},
+  Number                   = {2},
+  Pages                    = {444-50},
+  Volume                   = {111},
+
+  Abstract                 = {Appropriate control group selection in a randomized controlled trial (RCT) is a critical factor in generating results, which are both interpretable and generalizable. Control groups ideally encompass and realistically reflect prevailing medical practices. This goal can be challenging in investigations of standard therapies that are routinely titrated. To eliminate the heterogeneity in clinical practice from the trial design, recent investigations of titrated therapies have randomized patients to fixed-dose regimens. Although this approach may produce statistically significant differences, the results may not be interpretable or generalizable. In this trial design, randomization disrupts the normal relationship between clinically important characteristics and therapy titration, thereby creating subgroups of patients within each study arm that receive levels of therapy inconsistent with current practices outside of the clinical study. These misaligned subgroups may have worse outcomes than usual care. Practice misalignments can occur in any clinical trial of a preexisting therapy that is typically adjusted based on severity of illness or other patient characteristics. In this study, we review three recent RCTs to demonstrate how practice misalignments can affect the safety, results, and conclusions of RCTs. Furthermore, we discuss methods to prospectively identify potentially important relationships between therapy titration and patient- and disease-specific characteristics. Finally, we review trial design options that may minimize the occurrence and impact of practice misalignments. Because these designs may limit the feasibility of a clinical trial, a thorough characterization of usual care is necessary to determine whether one of these designs should be used to protect patient safety.},
+  Doi                      = {10.1213/ane.0b013e3181aa8903},
+  ISSN                     = {1526-7598 (Electronic)
+0003-2999 (Linking)},
+  Keywords                 = {Blood Transfusion
+*Control Groups
+*Critical Care
+*Critical Illness
+Evidence-Based Medicine
+Humans
+Opioid-Related Disorders/therapy
+*Patient Selection
+Practice Guidelines as Topic
+Randomized Controlled Trials as Topic/*methods
+Reproducibility of Results
+Respiration, Artificial/methods
+Respiratory Distress Syndrome, Adult/physiopathology/therapy
+Safety
+Severity of Illness Index
+Tidal Volume
+Treatment Outcome},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/19820238}
+}
+
+@Article{,
+  Title                    = {Usual and unusual care: existing practice control groups in randomized controlled trials of behavioral interventions},
+  Author                   = {Freedland, K. E. and Mohr, D. C. and Davidson, K. W. and Schwartz, J. E.},
+  Journal                  = {Psychosom Med},
+  Year                     = {2011},
+  Note                     = {Freedland, Kenneth E
+Mohr, David C
+Davidson, Karina W
+Schwartz, Joseph E
+eng
+R01 HL091918/HL/NHLBI NIH HHS/
+R01 HL091918-03/HL/NHLBI NIH HHS/
+RL1 HD058295/HD/NICHD NIH HHS/
+UL1 RR025741/RR/NCRR NIH HHS/
+Psychosom Med. 2011 May;73(4):323-35. doi: 10.1097/PSY.0b013e318218e1fb. Epub 2011 May 2.},
+  Number                   = {4},
+  Pages                    = {323-35},
+  Volume                   = {73},
+
+  Abstract                 = {OBJECTIVE: To evaluate the use of existing practice control groups in randomized controlled trials of behavioral interventions and the role of extrinsic health care services in the design and conduct of behavioral trials. METHOD: Selective qualitative review. RESULTS: Extrinsic health care services, also known as nonstudy care, have important but under-recognized effects on the design and conduct of behavioral trials. Usual care, treatment-as-usual, standard of care, and other existing practice control groups pose a variety of methodological and ethical challenges, but they play a vital role in behavioral intervention research. CONCLUSIONS: This review highlights the need for a scientific consensus statement on control groups in behavioral trials.},
+  Doi                      = {10.1097/PSY.0b013e318218e1fb},
+  ISSN                     = {1534-7796 (Electronic)
+0033-3174 (Linking)},
+  Keywords                 = {Behavior Therapy/standards
+Behavioral Research/ethics/*methods
+Confounding Factors (Epidemiology)
+*Control Groups
+*Evidence-Based Medicine
+Humans
+Randomized Controlled Trials as Topic/ethics/*methods
+Research Design
+Standard of Care},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/21536837}
+}
+
+@Article{,
+  Title                    = {Five questions to consider before conducting a stepped wedge trial},
+  Author                   = {Hargreaves, J. R. and Copas, A. J. and Beard, E. and Osrin, D. and Lewis, J. J. and Davey, C. and Thompson, J. A. and Baio, G. and Fielding, K. L. and Prost, A.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Hargreaves, James R
+Copas, Andrew J
+Beard, Emma
+Osrin, David
+Lewis, James J
+Davey, Calum
+Thompson, Jennifer A
+Baio, Gianluca
+Fielding, Katherine L
+Prost, Audrey
+eng
+091561/Wellcome Trust/United Kingdom
+MR/K012126/1/Medical Research Council/United Kingdom
+MR/L004933/1-P27/Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:350. doi: 10.1186/s13063-015-0841-8.},
+  Pages                    = {350},
+  Volume                   = {16},
+
+  Abstract                 = {Researchers should consider five questions before starting a stepped wedge trial. Why are you planning one? Researchers sometimes think that stepped wedge trials are useful when there is little doubt about the benefit of the intervention being tested. However, if the primary reason for an intervention is to measure its effect, without equipoise there is no ethical justification for delaying implementation in some clusters. By contrast, if you are undertaking pragmatic research, where the primary reason for rolling out the intervention is for it to exert its benefits, and if phased implementation is inevitable, a stepped wedge trial is a valid option and provides better evidence than most non-randomized evaluations. What design will you use? Two common stepped wedge designs are based on the recruitment of a closed or open cohort. In both, individuals may experience both control and intervention conditions and you should be concerned about carry-over effects. In a third, continuous-recruitment, short-exposure design, individuals are recruited as they become eligible and experience either control or intervention condition, but not both. How will you conduct the primary analysis? In stepped wedge trials, control of confounding factors through secular variation is essential. 'Vertical' approaches preserve randomization and compare outcomes between randomized groups within periods. 'Horizontal' approaches compare outcomes before and after crossover to the intervention condition. Most analysis models used in practice combine both types of comparison. The appropriate analytic strategy should be considered on a case-by-case basis. How large will your trial be? Standard sample size calculations for cluster randomized trials do not accommodate the specific features of stepped wedge trials. Methods exist for many stepped wedge designs, but simulation-based calculations provide the greatest flexibility. In some scenarios, such as when the intracluster correlation coefficient is moderate or high, or the cluster size is large, a stepped wedge trial may require fewer clusters than a parallel cluster trial. How will you report your trial? Stepped wedge trials are currently challenging to report using CONSORT principles. Researchers should consider how to demonstrate balance achieved by randomization and how to describe trends for outcomes in both intervention and control clusters.},
+  Doi                      = {10.1186/s13063-015-0841-8},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26279013}
+}
+
+@Article{,
+  Title                    = {How important is randomisation in a stepped wedge trial?},
+  Author                   = {Hargreaves, J. R. and Prost, A. and Fielding, K. L. and Copas, A. J.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Hargreaves, James R
+Prost, Audrey
+Fielding, Katherine L
+Copas, Andrew J
+eng
+England
+2015/08/16 06:00
+Trials. 2015 Aug 16;16:359. doi: 10.1186/s13063-015-0872-1.},
+  Pages                    = {359},
+  Volume                   = {16},
+
+  Abstract                 = {In cluster randomised trials, randomisation increases internal study validity. If enough clusters are randomised, an unadjusted analysis should be unbiased. If a smaller number of clusters are included, stratified or matched randomisation can increase comparability between trial arms. In addition, an adjusted analysis may be required; nevertheless, randomisation removes the possibility for systematically biased allocation and increases transparency. In stepped wedge trials, clusters are randomised to receive an intervention at different start times ('steps'), and all clusters eventually receive it. In a recent study protocol for a 'modified stepped wedge trial', the investigators considered randomisation of the clusters (hospital wards), but decided against it for ethical and logistical reasons, and under the assumption that it would not add much to the rigour of the evaluation. We show that the benefits of randomisation for cluster randomised trials also apply to stepped wedge trials. The biggest additional issue for stepped wedge trials in relation to parallel cluster randomised trials is the need to control for secular trends in the outcome. Analysis of stepped wedge trials can in theory be based on 'horizontal' or 'vertical' comparisons. Horizontal comparisons are based on measurements taken before and after the intervention is introduced in each cluster, and are unbiased if there are no secular trends. Vertical comparisons are based on outcome measurements from clusters that have switched to the intervention condition and those from clusters that have yet to switch, and are unbiased under randomisation since at any time point, which clusters are in intervention and control conditions will have been determined at random. Secular outcome trends are a possibility in many settings. Many stepped wedge trials are analysed with a mixed model, including a random effect for cluster and fixed effects for time period to account for secular trends, thereby combining both vertical and horizontal comparisons of intervention and control clusters. The importance of randomisation in a stepped wedge trial is that the effects of time can be estimated from the data, and bias from secular trends that would otherwise arise can be controlled for, provided the trends are correctly specified in the model.},
+  Doi                      = {10.1186/s13063-015-0872-1},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26275907}
+}
+
+@Article{,
+  Title                    = {The efficiency of stepped wedge vs. cluster randomized trials: stepped wedge studies do not always require a smaller sample size},
+  Author                   = {Hemming, K. and Girling, A.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2013},
+  Note                     = {Hemming, Karla
+Girling, Alan
+eng
+J Clin Epidemiol. 2013 Dec;66(12):1427-8. doi: 10.1016/j.jclinepi.2013.07.007. Epub 2013 Sep 10.},
+  Number                   = {12},
+  Pages                    = {1427-8},
+  Volume                   = {66},
+
+  Doi                      = {10.1016/j.jclinepi.2013.07.007},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Depression/*diagnosis/*therapy
+Humans
+Randomized Controlled Trials as Topic/*methods
+*Sample Size},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/24035495}
+}
+
+@Article{,
+  Title                    = {The stepped wedge cluster randomised trial: rationale, design, analysis, and reporting},
+  Author                   = {Hemming, K. and Haines, T. P. and Chilton, P. J. and Girling, A. J. and Lilford, R. J.},
+  Journal                  = {BMJ},
+  Year                     = {2015},
+  Note                     = {Hemming, K
+Haines, T P
+Chilton, P J
+Girling, A J
+Lilford, R J
+eng
+G0800808/Medical Research Council/United Kingdom
+England
+Clinical research ed.
+BMJ. 2015 Feb 6;350:h391. doi: 10.1136/bmj.h391.},
+  Pages                    = {h391},
+  Volume                   = {350},
+
+  Doi                      = {10.1136/bmj.h391},
+  ISSN                     = {1756-1833 (Electronic)
+0959-535X (Linking)},
+  Keywords                 = {*Clinical Protocols
+Cluster Analysis
+Data Interpretation, Statistical
+Humans
+Randomized Controlled Trials as Topic/*methods},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25662947}
+}
+
+@Article{,
+  Title                    = {Stepped-wedge cluster randomised controlled trials: a generic framework including parallel and multiple-level designs},
+  Author                   = {Hemming, K. and Lilford, R. and Girling, A. J.},
+  Journal                  = {Stat Med},
+  Year                     = {2015},
+  Note                     = {Hemming, Karla
+Lilford, Richard
+Girling, Alan J
+eng
+Research Support, Non-U.S. Gov't
+England
+2014/10/28 06:00
+Stat Med. 2015 Jan 30;34(2):181-96. doi: 10.1002/sim.6325. Epub 2014 Oct 24.},
+  Number                   = {2},
+  Pages                    = {181-96},
+  Volume                   = {34},
+
+  Abstract                 = {Stepped-wedge cluster randomised trials (SW-CRTs) are being used with increasing frequency in health service evaluation. Conventionally, these studies are cross-sectional in design with equally spaced steps, with an equal number of clusters randomised at each step and data collected at each and every step. Here we introduce several variations on this design and consider implications for power. One modification we consider is the incomplete cross-sectional SW-CRT, where the number of clusters varies at each step or where at some steps, for example, implementation or transition periods, data are not collected. We show that the parallel CRT with staggered but balanced randomisation can be considered a special case of the incomplete SW-CRT. As too can the parallel CRT with baseline measures. And we extend these designs to allow for multiple layers of clustering, for example, wards within a hospital. Building on results for complete designs, power and detectable difference are derived using a Wald test and obtaining the variance-covariance matrix of the treatment effect assuming a generalised linear mixed model. These variations are illustrated by several real examples. We recommend that whilst the impact of transition periods on power is likely to be small, where they are a feature of the design they should be incorporated. We also show examples in which the power of a SW-CRT increases as the intra-cluster correlation (ICC) increases and demonstrate that the impact of the ICC is likely to be smaller in a SW-CRT compared with a parallel CRT, especially where there are multiple levels of clustering. Finally, through this unified framework, the efficiency of the SW-CRT and the parallel CRT can be compared.},
+  Doi                      = {10.1002/sim.6325},
+  ISSN                     = {1097-0258 (Electronic)
+0277-6715 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25346484}
+}
+
+@Article{,
+  Title                    = {Sample size calculations for stepped wedge and cluster randomised trials: a unified approach},
+  Author                   = {Hemming, K. and Taljaard, M.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2015},
+  Note                     = {Hemming, Karla
+Taljaard, Monica
+ENG
+2015/09/08 06:00
+J Clin Epidemiol. 2015 Sep 5. pii: S0895-4356(15)00414-X. doi: 10.1016/j.jclinepi.2015.08.015.},
+
+  Abstract                 = {OBJECTIVES: To clarify and illustrate sample size calculations for the cross-sectional stepped wedge cluster randomized trial (SW-CRT) and to present a simple approach for comparing the efficiencies of competing designs within a unified framework. STUDY DESIGN AND SETTING: We summarize design effects for the SW-CRT, the parallel cluster randomized trial (CRT), and the parallel cluster randomized trial with before and after observations (CRT-BA), assuming cross-sectional samples are selected over time. We present new formulas that enable trialists to determine the required cluster size for a given number of clusters. We illustrate by example how to implement the presented design effects and give practical guidance on the design of stepped wedge studies. RESULTS: For a fixed total cluster size, the choice of study design that provides the greatest power depends on the intracluster correlation coefficient (ICC) and the cluster size. When the ICC is small, the CRT tends to be more efficient; when the ICC is large, the SW-CRT tends to be more efficient and can serve as an alternative design when the CRT is an infeasible design. CONCLUSION: Our unified approach allows trialists to easily compare the efficiencies of three competing designs to inform the decision about the most efficient design in a given scenario.},
+  Doi                      = {10.1016/j.jclinepi.2015.08.015},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Cluster randomized trial
+Efficiency
+Power
+Sample size
+Stepped wedge
+Study design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26344808}
+}
+
+@Article{,
+  Title                    = {Is restricted randomisation necessary?},
+  Author                   = {Hewitt, C. E. and Torgerson, D. J.},
+  Journal                  = {BMJ},
+  Year                     = {2006},
+  Note                     = {Hewitt, Catherine E
+Torgerson, David J
+Research Support, Non-U.S. Gov't
+Review
+England
+BMJ (Clinical research ed.)
+BMJ. 2006 Jun 24;332(7556):1506-8.},
+  Number                   = {7556},
+  Pages                    = {1506-8},
+  Volume                   = {332},
+
+  Doi                      = {332/7556/1506 [pii]
+10.1136/bmj.332.7556.1506},
+  ISSN                     = {1756-1833 (Electronic)
+0959-535X (Linking)},
+  Keywords                 = {Confounding Factors (Epidemiology)
+*Random Allocation
+Randomized Controlled Trials as Topic/*statistics & numerical data},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16793819
+http://www.bmj.com/highwire/filestream/368440/field_highwire_article_pdf/0
+http://www.bmj.com/content/332/7556/1506}
+}
+
+@Article{,
+  Title                    = {Experiences of nursing staff using dementia-specific case conferences in nursing homes},
+  Author                   = {Holle, D. and Kruger, C. and Halek, M. and Sirsch, E. and Bartholomeyczik, S.},
+  Journal                  = {Am J Alzheimers Dis Other Demen},
+  Year                     = {2015},
+  Note                     = {Holle, Daniela
+Kruger, Cornelia
+Halek, Margareta
+Sirsch, Erika
+Bartholomeyczik, Sabine
+eng
+Research Support, Non-U.S. Gov't
+2014/09/28 06:00
+Am J Alzheimers Dis Other Demen. 2015 May;30(3):228-37. doi: 10.1177/1533317514552320. Epub 2014 Sep 26.},
+  Number                   = {3},
+  Pages                    = {228-37},
+  Volume                   = {30},
+
+  Abstract                 = {BACKGROUND: Dementia specific-case conferences with the Innovative dementia oriented assessment tool (CC-IdA) could be an important tool with which to analyze and manage challenging behavior. The study gives an insight into nursing staff' experiences using CC-IdA in dementia care. METHODS: Qualitative interviews were conducted with 18 nursing teams from 12 nursing homes alongside a quasi-experimental study. In addition, observational field notes were taken. Interviews and observational field notes were analyzed using the thematic content analysis. RESULTS: CC-IdA contributed to a reflective handling of challenging behavior, to changes in the communication with residents and to the identification of potentially triggers of challenging behavior. Factors influencing the implementation of CC-IdA were among others a lack of moderation skills, limited knowledge of dementia, a lack of biographical information and a lack of involvement by other professionals. CONCLUSIONS: CC-IdA represents an important tool in the management of challenging behavior of people with dementia. For the successful implementation of these case conferences, both structural and personal resources are needed.},
+  Doi                      = {10.1177/1533317514552320},
+  ISSN                     = {1938-2731 (Electronic)
+1533-3175 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25260597
+http://aja.sagepub.com/content/30/3/228.full.pdf}
+}
+
+@Article{,
+  Title                    = {Process evaluation of the implementation of dementia-specific case conferences in nursing homes (FallDem): study protocol for a randomized controlled trial},
+  Author                   = {Holle, D. and Roes, M. and Buscher, I. and Reuther, S. and Muller, R. and Halek, M.},
+  Journal                  = {Trials},
+  Year                     = {2014},
+  Note                     = {Holle, Daniela
+Roes, Martina
+Buscher, Ines
+Reuther, Sven
+Muller, Rene
+Halek, Margareta
+eng
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2014/12/17 06:00
+Trials. 2014 Dec 11;15:485. doi: 10.1186/1745-6215-15-485.},
+  Pages                    = {485},
+  Volume                   = {15},
+
+  Abstract                 = {BACKGROUND: Challenging behaviors exhibited by individuals with dementia might result from an unmet need that they cannot communicate directly due to cognitive restrictions. A dementia-specific case conference represents a promising means of analyzing and exploring these unmet needs. The ongoing FallDem study is a stepped-wedged, cluster-randomized trial evaluating the effects of two different types of dementia-specific case conferences on the challenging behaviors of nursing home residents. This study protocol describes the process evaluation that is conducted, along with the FallDem study.The goal of the process evaluation is to explain potential discrepancies between expected and observed outcomes, and to provide insights into implementation processes and recruitment strategies, as well as the contexts and contextual factors that promote or inhibit the implementation of dementia-specific case conferences. METHODS/DESIGN: The process evaluation will use a mixed-method design comprising longitudinal elements, in which quantitative and qualitative data will be gathered. Qualitative data will be analyzed using content analysis, documentary analysis and a documentary method. Quantitative data (standardized questionnaires) will be analyzed using descriptive statistics. Both types of data will complement one another and provide a more comprehensive picture of the different objects under investigation. DISCUSSION: The process evaluation will allow for a comprehensive understanding of the changing processes and mechanisms underlying the 'black box' of the complex intervention of the FallDem study. These findings will provide practical knowledge regarding issues related to the implementation of dementia-specific case conferences in nursing homes. TRIAL REGISTRATION: Current Controlled Trials identifier: ISRCTN20203855, registered on 10th July 2013.},
+  Doi                      = {10.1186/1745-6215-15-485},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Keywords                 = {Activities of Daily Living
+Adaptation, Psychological
+Age Factors
+Attitude of Health Personnel
+*Cognition
+Dementia/diagnosis/*nursing/psychology
+Germany
+Health Knowledge, Attitudes, Practice
+Health Services Research
+*Homes for the Aged
+Humans
+Nurse's Role
+Nursing Homes
+Nursing Staff/*psychology
+Patient-Centered Care/*methods
+Qualitative Research
+Questionnaires
+*Research Design
+Treatment Outcome},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25496425}
+}
+
+@Article{,
+  Title                    = {The stepped wedge cluster randomized trial always requires fewer clusters but not always fewer measurements, that is, participants than a parallel cluster randomized trial in a cross-sectional design. In reply},
+  Author                   = {de Hoop, E. and Woertman, W. and Teerenstra, S.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2013},
+  Note                     = {de Hoop, Esther
+Woertman, Willem
+Teerenstra, Steven
+eng
+J Clin Epidemiol. 2013 Dec;66(12):1428. doi: 10.1016/j.jclinepi.2013.07.008. Epub 2013 Sep 8.},
+  Number                   = {12},
+  Pages                    = {1428},
+  Volume                   = {66},
+
+  Doi                      = {10.1016/j.jclinepi.2013.07.008},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Depression/*diagnosis/*therapy
+Humans
+Randomized Controlled Trials as Topic/*methods
+*Sample Size},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/24021612}
+}
+
+@Article{,
+  Title                    = {Current issues in the design and analysis of stepped wedge trials},
+  Author                   = {Hughes, J. P. and Granston, T. S. and Heagerty, P. J.},
+  Journal                  = {Contemp Clin Trials},
+  Year                     = {2015},
+  Note                     = {Hughes, James P
+Granston, Tanya S
+Heagerty, Patrick J
+ENG
+R01 AI029168/AI/NIAID NIH HHS/
+2015/08/08 06:00
+Contemp Clin Trials. 2015 Aug 3. pii: S1551-7144(15)30043-4. doi: 10.1016/j.cct.2015.07.006.},
+
+  Abstract                 = {The use of stepped wedge designs in cluster-randomized trials and implementation studies has increased rapidly in recent years but there remains considerable debate regarding the merits of the design. We discuss three key issues in the design and analysis of stepped wedge trials - time-on-treatment effects, treatment effect heterogeneity and cohort studies.},
+  Doi                      = {10.1016/j.cct.2015.07.006},
+  ISSN                     = {1559-2030 (Electronic)
+1551-7144 (Linking)},
+  Keywords                 = {Cluster randomized trial
+Implementation research
+Stepped wedge design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26247569}
+}
+
+@Article{,
+  Title                    = {Design and analysis of stepped wedge cluster randomized trials},
+  Author                   = {Hussey, M. A. and Hughes, J. P.},
+  Journal                  = {Contemp Clin Trials},
+  Year                     = {2007},
+  Note                     = {Hussey, Michael A
+Hughes, James P
+eng
+AI29168/AI/NIAID NIH HHS/
+AI46702/AI/NIAID NIH HHS/
+Contemp Clin Trials. 2007 Feb;28(2):182-91. Epub 2006 Jul 7.},
+  Number                   = {2},
+  Pages                    = {182-91},
+  Volume                   = {28},
+
+  Abstract                 = {Cluster randomized trials (CRT) are often used to evaluate therapies or interventions in situations where individual randomization is not possible or not desirable for logistic, financial or ethical reasons. While a significant and rapidly growing body of literature exists on CRTs utilizing a "parallel" design (i.e. I clusters randomized to each treatment), only a few examples of CRTs using crossover designs have been described. In this article we discuss the design and analysis of a particular type of crossover CRT - the stepped wedge - and provide an example of its use.},
+  Doi                      = {10.1016/j.cct.2006.05.007},
+  ISSN                     = {1551-7144 (Print)
+1551-7144 (Linking)},
+  Keywords                 = {Adolescent
+Adult
+Algorithms
+Child
+Cluster Analysis
+Computer Simulation
+*Contact Tracing
+Cross-Over Studies
+Female
+Humans
+Randomized Controlled Trials as Topic/*methods/*statistics & numerical data
+*Research Design
+Sample Size
+Sexually Transmitted Diseases, Bacterial/*prevention &
+control/therapy/transmission},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/16829207}
+}
+
+@Article{,
+  Title                    = {The stepped wedge design does not inherently have more power than a cluster randomized controlled trial},
+  Author                   = {Kotz, D. and Spigt, M. and Arts, I. C. and Crutzen, R. and Viechtbauer, W.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2013},
+  Note                     = {Kotz, Daniel
+Spigt, Mark
+Arts, Ilja C W
+Crutzen, Rik
+Viechtbauer, Wolfgang
+eng
+J Clin Epidemiol. 2013 Sep;66(9):1059-60. doi: 10.1016/j.jclinepi.2013.05.004.},
+  Number                   = {9},
+  Pages                    = {1059-60},
+  Volume                   = {66},
+
+  Doi                      = {10.1016/j.jclinepi.2013.05.004},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Humans
+Randomized Controlled Trials as Topic/*methods
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/23953488}
+}
+
+@Article{,
+  Title                    = {Use of the stepped wedge design cannot be recommended: a critical appraisal and comparison with the classic cluster randomized controlled trial design},
+  Author                   = {Kotz, D. and Spigt, M. and Arts, I. C. and Crutzen, R. and Viechtbauer, W.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2012},
+  Note                     = {Kotz, Daniel
+Spigt, Mark
+Arts, Ilja C W
+Crutzen, Rik
+Viechtbauer, Wolfgang
+eng
+J Clin Epidemiol. 2012 Dec;65(12):1249-52. doi: 10.1016/j.jclinepi.2012.06.004. Epub 2012 Sep 8.},
+  Number                   = {12},
+  Pages                    = {1249-52},
+  Volume                   = {65},
+
+  Doi                      = {10.1016/j.jclinepi.2012.06.004},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Cluster Analysis
+Comparative Effectiveness Research
+Humans
+Intervention Studies
+Randomized Controlled Trials as Topic/*methods
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22964070}
+}
+
+@Article{,
+  Title                    = {A structural multidisciplinary approach to depression managment in nursing home residents: a multicentre, stepped-wedge cluster randomised trial},
+  Author                   = {Leontjevas, Ruslan and Gerritsen, Debby L and Smalbrugge, Martin and Teerenstra, Steven and Vernooij-Dassen, Myrra JFJ and Koopmans, Raymond TCM},
+  Journal                  = {Lancet},
+  Year                     = {2013},
+  Pages                    = {2255-2264},
+  Volume                   = {381},
+
+  Type                     = {Journal Article}
+}
+
+@Article{,
+  Title                    = {Response to Keriel-Gascou et al. Addressing assumptions on the stepped wedge randomized trial design},
+  Author                   = {Mdege, N. D. and Kanaan, M.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2014},
+  Note                     = {Mdege, Noreen D
+Kanaan, Mona
+eng
+J Clin Epidemiol. 2014 Jul;67(7):833-4. doi: 10.1016/j.jclinepi.2014.02.014. Epub 2014 Apr 18.},
+  Number                   = {7},
+  Pages                    = {833-4},
+  Volume                   = {67},
+
+  Doi                      = {10.1016/j.jclinepi.2014.02.014},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Humans
+Randomized Controlled Trials as Topic/*methods
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/24751180}
+}
+
+@Article{,
+  Title                    = {There are some circumstances where the stepped-wedge cluster randomized trial is preferable to the alternative: no randomized trial at all. Response to the commentary by Kotz and colleagues},
+  Author                   = {Mdege, N. D. and Man, M. S. and Taylor nee Brown, C. A. and Torgerson, D. J.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2012},
+  Note                     = {Mdege, Noreen D
+Man, Mei-See
+Taylor nee Brown, Celia A
+Torgerson, David J
+eng
+Comment
+2012/09/13 06:00
+J Clin Epidemiol. 2012 Dec;65(12):1253-4. doi: 10.1016/j.jclinepi.2012.06.003. Epub 2012 Sep 9.},
+  Number                   = {12},
+  Pages                    = {1253-4},
+  Volume                   = {65},
+
+  Doi                      = {10.1016/j.jclinepi.2012.06.003},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Humans
+Randomized Controlled Trials as Topic/*methods
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22968178}
+}
+
+@Article{,
+  Title                    = {Systematic review of stepped wedge cluster randomized trials shows that design is particularly used to evaluate interventions during routine implementation},
+  Author                   = {Mdege, N. D. and Man, M. S. and Taylor Nee Brown, C. A. and Torgerson, D. J.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2011},
+  Note                     = {Mdege, Noreen D
+Man, Mei-See
+Taylor Nee Brown, Celia A
+Torgerson, David J
+eng
+Review
+2011/03/18 06:00
+J Clin Epidemiol. 2011 Sep;64(9):936-48. doi: 10.1016/j.jclinepi.2010.12.003. Epub 2011 Mar 16.},
+  Number                   = {9},
+  Pages                    = {936-48},
+  Volume                   = {64},
+
+  Abstract                 = {OBJECTIVE: To describe the application of the stepped wedge cluster randomized controlled trial (CRCT) design. STUDY DESIGN AND SETTING: Systematic review. We searched Medline, Embase, PsycINFO, HMIC, CINAHL, Cochrane Library, Web of Knowledge, and Current Controlled Trials Register for articles published up to January 2010. Stepped wedge CRCTs from all fields of research were included. Two authors independently reviewed and extracted data from the studies. RESULTS: Twenty-five studies were included in the review. Motivations for using the design included ethical, logistical, financial, social, and political acceptability and methodological reasons. Most studies were evaluating an intervention during routine implementation. For most of the included studies, there was also a belief or empirical evidence suggesting that the intervention would do more good than harm. There was variation in data analysis methods and insufficient quality of reporting. CONCLUSIONS: The stepped wedge CRCT design has been mainly used for evaluating interventions during routine implementation, particularly for interventions that have been shown to be effective in more controlled research settings, or where there is lack of evidence of effectiveness but there is a strong belief that they will do more good than harm. There is need for consistent data analysis and reporting.},
+  Doi                      = {10.1016/j.jclinepi.2010.12.003},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Cluster Analysis
+Comparative Effectiveness Research
+Cross-Over Studies
+Data Interpretation, Statistical
+Databases, Bibliographic
+Humans
+Randomized Controlled Trials as Topic/ethics/*methods/statistics & numerical data
+*Research Design
+Therapeutic Equipoise
+Time Factors},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/21411284}
+}
+
+@Article{,
+  Title                    = {Process evaluation of complex interventions: Medical Research Council guidance},
+  Author                   = {Moore, G. F. and Audrey, S. and Barker, M. and Bond, L. and Bonell, C. and Hardeman, W. and Moore, L. and O'Cathain, A. and Tinati, T. and Wight, D. and Baird, J.},
+  Journal                  = {BMJ},
+  Year                     = {2015},
+  Note                     = {Moore, Graham F
+Audrey, Suzanne
+Barker, Mary
+Bond, Lyndal
+Bonell, Chris
+Hardeman, Wendy
+Moore, Laurence
+O'Cathain, Alicia
+Tinati, Tannaze
+Wight, Daniel
+Baird, Janis
+eng
+Research Support, Non-U.S. Gov't
+England
+Clinical research ed.
+2015/03/21 06:00
+BMJ. 2015 Mar 19;350:h1258. doi: 10.1136/bmj.h1258.},
+  Pages                    = {h1258},
+  Volume                   = {350},
+
+  Doi                      = {10.1136/bmj.h1258},
+  ISSN                     = {1756-1833 (Electronic)
+0959-535X (Linking)},
+  Keywords                 = {*Biomedical Research
+*Guidelines as Topic
+Humans
+*Intervention Studies
+Public Health
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25791983
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4366184/pdf/bmj.h1258.pdf}
+}
+
+@Article{,
+  Title                    = {Covariate-based constrained randomization of group-randomized trials},
+  Author                   = {Moulton, L. H.},
+  Journal                  = {Clin Trials},
+  Year                     = {2004},
+  Note                     = {Moulton, Lawrence H
+R01-HD38209/HD/NICHD NIH HHS/United States
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+England
+Clinical trials (London, England)
+Clin Trials. 2004;1(3):297-305.},
+  Number                   = {3},
+  Pages                    = {297-305},
+  Volume                   = {1},
+
+  Abstract                 = {Group-randomized study designs are useful when individually randomized designs are either not possible, or will not be able to estimate the parameters of interest. Blocked and/or stratified (for example, pair-matched) designs have been used, and their properties statistically evaluated by many researchers. Group-randomized trials often have small numbers of experimental units, and strong, geographically induced between-unit correlation, which increase the chance of obtaining a "bad" randomization outcome. This article describes a procedure--random selection from a list of acceptable allocations--to allocate treatment conditions in a way that ensures balance on relevant covariates. Numerous individual- and group-level covariates can be balanced using exact or caliper criteria. Simulation results indicate that this method has good frequency properties, but some care may be needed not to overly constrain the randomization. There is a trade-off between achieving good balance through a highly constrained design, and jeopardizing the appearance of impartiality of the investigator and potentially departing from the nominal Type I error.},
+  ISSN                     = {1740-7745 (Print)
+1740-7745 (Linking)},
+  Keywords                 = {Algorithms
+Decision Making
+*Group Processes
+Humans
+Random Allocation
+Randomized Controlled Trials as Topic/*methods/statistics & numerical data
+Reproducibility of Results
+*Research Design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16279255
+http://ctj.sagepub.com/content/1/3/297.full.pdf}
+}
+
+@Article{,
+  Title                    = {[Development, appraisal and synthesis of complex interventions - a methodological challenge]},
+  Author                   = {Muhlhauser, I. and Lenz, M. and Meyer, G.},
+  Journal                  = {Z Evid Fortbild Qual Gesundhwes},
+  Year                     = {2011},
+  Note                     = {Muhlhauser, Ingrid
+Lenz, Matthias
+Meyer, Gabriele
+ger
+English Abstract
+Netherlands
+2011/12/20 06:00
+Z Evid Fortbild Qual Gesundhwes. 2011;105(10):751-61. doi: 10.1016/j.zefq.2011.11.001. Epub 2011 Nov 30.},
+  Number                   = {10},
+  Pages                    = {751-61},
+  Volume                   = {105},
+
+  Abstract                 = {BACKGROUND: Many medical interventions are of a complex nature. They comprise interdependent components differently interacting within various complex settings, e.g., stroke units. Appraising the efficacy, benefit and harm of complex interventions is far more difficult than appraising single interventions like specific drug treatments. Detailed methodological procedures for the development, appraisal and synthesis of complex interventions are increasingly discussed internationally. METHODS: Systematic inventory of methodological guidance for the development and evaluation of complex interventions through searching scientific literature databases and web resources of international institutes. Review of the current state of discussion and suggestions for the development, appraisal and synthesis of complex interventions. RESULTS: Five methodological guidance papers have been identified. In particular, the UK Medical Research Council's guidance offers a structured introduction to the development and evaluation of complex interventions in health care and medicine. Synthesis of complex interventions using customary methods of systematic reviews is not satisfying. Other approaches to synthesis like realist evaluation as well as statistical procedures exploring the active components of complex interventions have been discussed. However, post hoc analytical procedures could never adequately replace careful prospective development and exploration of complex interventions and interdependencies with contextual factors. CONCLUSION: Complex interventions require multi-stage development, use of different methods, reporting on all developing phases and new approaches for synthesis. Presentation of the complete evidence on a specific complex intervention might be more useful than synthesis of a variety of different complex interventions by customarily applied methods of (meta-analytical) systematic review.},
+  Doi                      = {10.1016/j.zefq.2011.11.001},
+  ISSN                     = {1865-9217 (Print)
+1865-9217 (Linking)},
+  Keywords                 = {Chronic Disease/*therapy
+*Cooperative Behavior
+Data Collection/methods
+Delivery of Health Care/*methods
+*Evaluation Studies as Topic
+Germany
+Guideline Adherence
+Health Plan Implementation/organization & administration
+Health Services Research/*methods
+Humans
+*Interdisciplinary Communication
+Quality Improvement/*organization & administration},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/22176984}
+}
+
+@Article{,
+  Title                    = {Logistic, ethical, and political dimensions of stepped wedge trials: critical review and case studies},
+  Author                   = {Prost, A. and Binik, A. and Abubakar, I. and Roy, A. and De Allegri, M. and Mouchoux, C. and Dreischulte, T. and Ayles, H. and Lewis, J. J. and Osrin, D.},
+  Journal                  = {Trials},
+  Year                     = {2015},
+  Note                     = {Prost, Audrey
+Binik, Ariella
+Abubakar, Ibrahim
+Roy, Anjana
+De Allegri, Manuela
+Mouchoux, Christelle
+Dreischulte, Tobias
+Ayles, Helen
+Lewis, James J
+Osrin, David
+eng
+091561/Wellcome Trust/United Kingdom
+091561/Z/10/Z/Wellcome Trust/United Kingdom
+Research Support, Non-U.S. Gov't
+England
+2015/08/19 06:00
+Trials. 2015 Aug 17;16:351. doi: 10.1186/s13063-015-0837-4.},
+  Pages                    = {351},
+  Volume                   = {16},
+
+  Abstract                 = {BACKGROUND: Three arguments are usually invoked in favour of stepped wedge cluster randomised controlled trials: the logistic convenience of implementing an intervention in phases, the ethical benefit of providing the intervention to all clusters, and the potential to enhance the social acceptability of cluster randomised controlled trials. Are these alleged benefits real? We explored the logistic, ethical, and political dimensions of stepped wedge trials using case studies of six recent evaluations. METHODS: We identified completed or ongoing stepped wedge evaluations using two systematic reviews. We then purposively selected six with a focus on public health in high, middle, and low-income settings. We interviewed their authors about the logistic, ethical, and social issues faced by their teams. Two authors reviewed interview transcripts, identified emerging issues through qualitative thematic analysis, reflected upon them in the context of the literature, and invited all participants to co-author the manuscript. RESULTS: Our analysis raises three main points. First, the phased implementation of interventions can alleviate problems linked to simultaneous roll-out, but also brings new challenges. Issues to consider include the feasibility of organising intervention activities according to a randomised sequence, estimating time lags in implementation and effects, and accommodating policy changes during the trial period. Second, stepped wedge trials, like parallel cluster trials, require equipoise: without it, randomising participants to a control condition, even for a short time, remains problematic. In stepped wedge trials, equipoise is likely to lie in the degree of effect, effectiveness in a specific operational milieu, and the balance of benefit and harm, including the social value of better evaluation. Third, the strongest arguments for a stepped wedge design are logistic and political rather than ethical. The design is advantageous when simultaneous roll-out is impractical and when it increases the acceptability of using counterfactuals. CONCLUSIONS: The logistic convenience of phased implementation is context-dependent, and may be vitiated by the additional requirements of phasing. The potential for stepped wedge trials to enhance the social acceptability of cluster randomised trials is real, but their ethical legitimacy still rests on demonstrating equipoise and its configuration for each research question and setting.},
+  Doi                      = {10.1186/s13063-015-0837-4},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/26278521}
+}
+
+@Article{,
+  Title                    = {Effect evaluation of two types of dementia-specific case conferences in German nursing homes (FallDem) using a stepped-wedge design: study protocol for a randomized controlled trial},
+  Author                   = {Reuther, S. and Holle, D. and Buscher, I. and Dortmann, O. and Muller, R. and Bartholomeyczik, S. and Halek, M.},
+  Journal                  = {Trials},
+  Year                     = {2014},
+  Note                     = {Reuther, Sven
+Holle, Daniela
+Buscher, Ines
+Dortmann, Olga
+Muller, Rene
+Bartholomeyczik, Sabine
+Halek, Margareta
+eng
+Research Support, Non-U.S. Gov't
+England
+2014/08/15 06:00
+Trials. 2014 Aug 12;15:319. doi: 10.1186/1745-6215-15-319.},
+  Pages                    = {319},
+  Volume                   = {15},
+
+  Abstract                 = {BACKGROUND: Case conferences for people with dementia and challenging behaviors (e.g., apathy) are recommended as useful tools that enable staff in nursing homes to understand the behavior of people with this type of disease. Understanding peoples' behaviors is the basis for the initiation of targeted interventions to improve the quality of care for people with dementia. Furthermore, case conferences demonstrate positive effects on burnout, dementia-specific burden, and vocational action competence of the staff. The two likely approaches for conducting case conferences include the following: A) using a structured assessment instrument, which guides the staff in understanding the residents' behaviors and B) using a narrative approach in which the staff must identify the reasons for the residents' behaviors in an unstructured manner. Case conferences are a complex intervention, and evaluating their multiple effects is challenging. The aim of this study protocol was to describe a likely solution for evaluating this type of complex intervention using a special cluster randomized trial. METHODS: In this stepped-wedged cluster randomized trial, the two interventions will be sequentially implemented every three months in a group of 12 nursing homes (clusters) with a minimum of 360 residents over 19 months (7 months of intervention for each cluster and follow-up). The primary outcome is the reduction of challenging behavior (measured with the neuropsychiatric inventory-nursing home version [NPI-NH]). Secondary outcomes are residents' quality of life, prescription of psychotropic medications, staff burnout, dementia-related stress, and vocational action competence. The effectiveness of the study will be accompanied by a process evaluation. The primary data will be analyzed using a Bayesian mixed effect model; the secondary data will be analyzed using descriptive statistics and mixed effects models. DISCUSSION: The implementation and effect measurement of complex interventions such as case conferences within a cluster randomized trial are challenging (e.g., complex and intensive training, delayed treatment effect). In this study protocol, the methodological advantages and disadvantages of using the stepped wedge design to answer the research questions are discussed. TRIAL REGISTRATION: http://www.controlled-trials.com/ISRCTN20203855; registered 10 July 2013.},
+  Doi                      = {10.1186/1745-6215-15-319},
+  ISSN                     = {1745-6215 (Electronic)
+1745-6215 (Linking)},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/25118091
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141097/pdf/13063_2014_Article_2197.pdf}
+}
+
+@Article{,
+  Title                    = {[Epidemiological methods 7: secrecy of randomization in randomized studies: how one defends against decisions]},
+  Author                   = {Schulz, K. F. and Grimes, D. A.},
+  Journal                  = {Z Arztl Fortbild Qualitatssich},
+  Year                     = {2007},
+  Note                     = {Schulz, Kenneth F
+Grimes, David A
+Germany
+Zeitschrift fur arztliche Fortbildung und Qualitatssicherung
+Z Arztl Fortbild Qualitatssich. 2007;101(7):499-505.},
+  Number                   = {7},
+  Pages                    = {499-505},
+  Volume                   = {101},
+
+  ISSN                     = {1431-7621 (Print)
+1431-7621 (Linking)},
+  Keywords                 = {Decision Making
+Humans
+Patient Selection
+Physicians/standards
+Random Allocation
+Randomized Controlled Trials as Topic/methods/*standards},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18183871}
+}
+
+@Article{,
+  Title                    = {Restricted randomization of ZAMSTAR: a 2 x 2 factorial cluster randomized trial},
+  Author                   = {Sismanidis, C. and Moulton, L. H. and Ayles, H. and Fielding, K. and Schaap, A. and Beyers, N. and Bond, G. and Godfrey-Faussett, P. and Hayes, R.},
+  Journal                  = {Clin Trials},
+  Year                     = {2008},
+  Note                     = {Sismanidis, Charalambos
+Moulton, Lawrence H
+Ayles, Helen
+Fielding, Katherine
+Schaap, Ab
+Beyers, Nulda
+Bond, Ginny
+Godfrey-Faussett, Peter
+Hayes, Richard
+Research Support, Non-U.S. Gov't
+England
+Clinical trials (London, England)
+Clin Trials. 2008;5(4):316-27.},
+  Number                   = {4},
+  Pages                    = {316-27},
+  Volume                   = {5},
+
+  Abstract                 = {BACKGROUND: A small number of clusters and substantial variation between clusters increase the chance of unbalanced randomization in cluster randomized trials. Baseline imbalances between groups may distort intervention effects. When adjusting for imbalances in the cluster-level analysis, this results in loss of degrees of freedom. Variance reduction that can be achieved through stratification and blocking is limited. Restricted randomization is an alternative approach that ensures balanced allocation. PURPOSE: We present the randomization scheme used in the ZAMSTAR trial of tuberculosis control interventions in Southern Africa. METHODS: We used stratification and restriction to randomize 24 clusters (16 Zambian, 8 South African) into four intervention groups in a 2 x 2 factorial design. Stratification was by country and tuberculous infection prevalence and restriction by tuberculous infection prevalence, HIV prevalence, urban/rural, social context, and geographical location. Balance was defined in terms of covariate-specific tolerance thresholds for the measure of imbalance. For binary (0/1) covariates we defined imbalance = max(S(i)) - min(S(i)), where, S(i) was the number of 1s in group i = 1,2,3,4. For continuous covariates we defined imbalance = (max(M(i)) - min(M(i)))/ min(M(i) ), where, M( i) was the average in group i = 1,2,3,4.We used simulation to estimate the restriction factor (proportion of unacceptable allocations) both for individual covariates and overall. Simulation was also used to investigate the validity of the restricted randomization design, with the use of the validity matrix, by monitoring the probability that any given pair of clusters is allocated to the same intervention group. RESULTS: There were 3 657 930 400 possible ways of allocating the 24 clusters to the four groups after stratification. With a combined restriction factor of 0.998 this still left 7 million acceptable allocations. The final allocation was selected at a public ceremony from a randomly-generated list of acceptable allocations. The design of the allocation process was observed to be valid. LIMITATIONS: The restricted randomization scheme significantly decreased the total number of available allocations of clusters into intervention groups. CONCLUSION: Our restricted randomization was successful in that it achieved good balance while preserving the impartiality and validity of the trial.},
+  Doi                      = {5/4/316 [pii]
+10.1177/1740774508094747},
+  ISSN                     = {1740-7745 (Print)
+1740-7745 (Linking)},
+  Keywords                 = {Cluster Analysis
+HIV Infections/complications/*epidemiology
+Humans
+Multicenter Studies as Topic
+Prevalence
+Randomized Controlled Trials as Topic/*methods/statistics & numerical data
+Research Design/*statistics & numerical data
+Residence Characteristics
+Tuberculosis, Pulmonary/complications/*epidemiology},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18697846
+http://ctj.sagepub.com/content/5/4/316.full.pdf}
+}
+
+@Article{,
+  Title                    = {Stepped wedge designs could reduce the required sample size in cluster randomized trials},
+  Author                   = {Woertman, W. and de Hoop, E. and Moerbeek, M. and Zuidema, S. U. and Gerritsen, D. L. and Teerenstra, S.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2013},
+  Note                     = {Woertman, Willem
+de Hoop, Esther
+Moerbeek, Mirjam
+Zuidema, Sytse U
+Gerritsen, Debby L
+Teerenstra, Steven
+eng
+J Clin Epidemiol. 2013 Jul;66(7):752-8. doi: 10.1016/j.jclinepi.2013.01.009. Epub 2013 Mar 22.},
+  Number                   = {7},
+  Pages                    = {752-8},
+  Volume                   = {66},
+
+  Abstract                 = {OBJECTIVE: The stepped wedge design is increasingly being used in cluster randomized trials (CRTs). However, there is not much information available about the design and analysis strategies for these kinds of trials. Approaches to sample size and power calculations have been provided, but a simple sample size formula is lacking. Therefore, our aim is to provide a sample size formula for cluster randomized stepped wedge designs. STUDY DESIGN AND SETTING: We derived a design effect (sample size correction factor) that can be used to estimate the required sample size for stepped wedge designs. Furthermore, we compared the required sample size for the stepped wedge design with a parallel group and analysis of covariance (ANCOVA) design. RESULTS: Our formula corrects for clustering as well as for the design. Apart from the cluster size and intracluster correlation, the design effect depends on choices of the number of steps, the number of baseline measurements, and the number of measurements between steps. The stepped wedge design requires a substantial smaller sample size than a parallel group and ANCOVA design. CONCLUSION: For CRTs, the stepped wedge design is far more efficient than the parallel group and ANCOVA design in terms of sample size.},
+  Doi                      = {10.1016/j.jclinepi.2013.01.009},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Analysis of Variance
+Binomial Distribution
+Cluster Analysis
+Computer Simulation
+Cross-Over Studies
+Depression/*diagnosis/*therapy
+Epidemiologic Research Design
+Humans
+Mathematical Computing
+Randomized Controlled Trials as Topic/*methods/standards
+Reproducibility of Results
+*Sample Size},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/23523551}
+}
+
+@Article{,
+  Title                    = {Strengths and weaknesses of a stepped wedge cluster randomized design: its application in a colorectal cancer follow-up study},
+  Author                   = {Zhan, Z. and van den Heuvel, E. R. and Doornbos, P. M. and Burger, H. and Verberne, C. J. and Wiggers, T. and de Bock, G. H.},
+  Journal                  = {J Clin Epidemiol},
+  Year                     = {2014},
+  Note                     = {Zhan, Zhuozhao
+van den Heuvel, Edwin R
+Doornbos, Peter M
+Burger, Huib
+Verberne, Charlotte J
+Wiggers, Theo
+de Bock, Geertruida H
+eng
+J Clin Epidemiol. 2014 Apr;67(4):454-61. doi: 10.1016/j.jclinepi.2013.10.018. Epub 2014 Jan 31.},
+  Number                   = {4},
+  Pages                    = {454-61},
+  Volume                   = {67},
+
+  Abstract                 = {OBJECTIVES: To determine the advantages and disadvantages of a stepped wedge design for a specific clinical application. STUDY DESIGN AND SETTING: The clinical application was a pragmatic cluster randomized surgical trial intending to find an increased percentage of curable recurrences in patients in follow-up after colorectal cancer. Advantages and disadvantages of the stepped wedge design were evaluated, and for this application, new advantages and disadvantages were presented. RESULTS: A main advantage of the stepped wedge design was that the intervention rolls out to all participants, motivating patients and doctors, and a large number of patients who were included in this study. The stepped wedge design increased the complexity of the data analysis, and there were concerns regarding the informed consent procedure. The repeated measurements may bring burden to patients in terms of quality of life, satisfaction, and costs. CONCLUSION: The stepped wedge design is a strong alternative for pragmatic cluster randomized trials. The known advantages hold, whereas most of the disadvantages were not applicable to this application. The main advantage was that we were able to include a large number of patients. Main disadvantages were that the informed consent procedure can be problematic and that the analysis of the data can be complex.},
+  Doi                      = {10.1016/j.jclinepi.2013.10.018},
+  ISSN                     = {1878-5921 (Electronic)
+0895-4356 (Linking)},
+  Keywords                 = {Carcinoembryonic Antigen/*analysis
+Cluster Analysis
+Colorectal Neoplasms/chemistry/*diagnosis/surgery
+Epidemiologic Research Design
+Follow-Up Studies
+Humans
+Neoplasm Recurrence, Local/chemistry/*diagnosis
+Randomized Controlled Trials as Topic/*methods/*standards
+Clinical trial
+Colorectal cancer
+Epidemiological research design
+Randomized controlled trial
+Stepped wedge design},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/24491793}
+}
+
+@Article{,
+  Title                    = {Coming to Grips With Challenging Behavior: A Cluster Randomized Controlled Trial on the Effects of a Multidisciplinary Care Program for Challenging Behavior in Dementia},
+  Author                   = {Zwijsen, Sandra and Smalbrugge, Martin and Eefsting, Jan A and Twisk, Jos WR and Gerritsen, Debby L and Pot, Anne Margriet},
+  Journal                  = {J Am Med Dir Assoc},
+  Year                     = {2014},
+  Number                   = {7},
+  Pages                    = {e1-10},
+  Volume                   = {15},
+
+  Doi                      = {10.1016/j.jamda.2014.04.007},
+  Type                     = {Journal Article},
+  Url                      = {http://ac.els-cdn.com/S1525861014002138/1-s2.0-S1525861014002138-main.pdf?_tid=043b9850-2a30-11e5-b72c-00000aab0f27&acdnat=1436882322_8a2f543b539d0aab8f23dc02a77fe34d}
+}
+
+@Article{,
+  Title                    = {The Gambia Hepatitis Intervention Study. The Gambia Hepatitis Study Group},
+  Journal                  = {Cancer Res},
+  Year                     = {1987},
+  Note                     = {eng
+Cancer Res. 1987 Nov 1;47(21):5782-7.},
+  Number                   = {21},
+  Pages                    = {5782-7},
+  Volume                   = {47},
+
+  Abstract                 = {The Gambia Hepatitis Intervention Study is a large-scale vaccination project in The Gambia, initiated in July 1986, in which the introduction of national hepatitis B (HBV) vaccination of young infants progressively over a 4-year period is proposed. During this time it is anticipated that about 600,000 infants will receive a course of HBV vaccine and a similar number will not receive the vaccine. All children in the study will receive the normal childhood vaccinations. Identification data for each child will be collected and stored with information on their vaccination records. A national surveillance system will be set up to detect new cases of hepatocellular cancer and other chronic liver diseases over a period of 30 to 40 years. An attempt will be made to trace each case, of relevant age, to determine if they are included in the HBV vaccination study. In this way, the efficacy of HBV vaccine in the prevention of HCC and chronic liver diseases will be evaluated. Details of the study design are discussed.},
+  ISSN                     = {0008-5472 (Print)
+0008-5472 (Linking)},
+  Keywords                 = {Aflatoxins/toxicity
+Carcinoma, Hepatocellular/*prevention & control
+Child
+Clinical Trials as Topic
+Follow-Up Studies
+Gambia
+Hepatitis B Vaccines
+Humans
+Liver Diseases/prevention & control
+Liver Neoplasms/*prevention & control
+Vaccination
+Viral Hepatitis Vaccines/*immunology},
+  Type                     = {Journal Article},
+  Url                      = {http://www.ncbi.nlm.nih.gov/pubmed/2822233}
+}
+

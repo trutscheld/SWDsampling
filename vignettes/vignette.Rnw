@@ -1,0 +1,10 @@
+\documentclass{article}
+
+\begin{document}
+
+\title{Vignette to Package 'SWDsampling'}
+\author{Diana Trutschel}
+\maketitle
+
+
+\end{document}
